@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 668bec729183a5b8011579c760394147149886ad rebeccatencza <tenczare@msu.edu> 1396892528 -0700	clone: from https://github.com/rebeccatencza/portfolio.git
+668bec729183a5b8011579c760394147149886ad fea382eb5a9ae716d3e7de67bdaed0b39036e0c3 rebeccatencza <tenczare@msu.edu> 1396895531 -0700	commit: updates
+fea382eb5a9ae716d3e7de67bdaed0b39036e0c3 8e7118de086d61fd9f5d925cef1ce619fa80e991 rebeccatencza <tenczare@msu.edu> 1396903730 -0700	commit: new changes
+8e7118de086d61fd9f5d925cef1ce619fa80e991 0f8f647760648a7f7279af5dd9470d5c738bad5c rebeccatencza <tenczare@msu.edu> 1396904687 -0700	commit: update
+0f8f647760648a7f7279af5dd9470d5c738bad5c 528e230926aa04eeb2548b336f2db87d4fa7b9bf rebeccatencza <tenczare@msu.edu> 1397396627 -0700	pull --progress --rebase --prune: checkout 528e230926aa04eeb2548b336f2db87d4fa7b9bf
+528e230926aa04eeb2548b336f2db87d4fa7b9bf 528e230926aa04eeb2548b336f2db87d4fa7b9bf rebeccatencza <tenczare@msu.edu> 1397396629 -0700	rebase finished: returning to refs/heads/master
+528e230926aa04eeb2548b336f2db87d4fa7b9bf cce42c24ff4072e5c5c2bcede80c35f53ee19483 rebeccatencza <tenczare@msu.edu> 1397396888 -0700	pull --progress --rebase --prune: checkout cce42c24ff4072e5c5c2bcede80c35f53ee19483
+cce42c24ff4072e5c5c2bcede80c35f53ee19483 cce42c24ff4072e5c5c2bcede80c35f53ee19483 rebeccatencza <tenczare@msu.edu> 1397396889 -0700	rebase finished: returning to refs/heads/master
+cce42c24ff4072e5c5c2bcede80c35f53ee19483 53f3d648ba0611217c08e0ad78507a7bd544e635 rebeccatencza <tenczare@msu.edu> 1397397509 -0700	commit: updates
+53f3d648ba0611217c08e0ad78507a7bd544e635 7393a113438553a915ae0852542e8bd32afa3b33 rebeccatencza <tenczare@msu.edu> 1397398225 -0700	commit: updates
+7393a113438553a915ae0852542e8bd32afa3b33 fea382eb5a9ae716d3e7de67bdaed0b39036e0c3 rebeccatencza <tenczare@msu.edu> 1397508071 -0700	checkout: moving from master to gh-pages
+fea382eb5a9ae716d3e7de67bdaed0b39036e0c3 7393a113438553a915ae0852542e8bd32afa3b33 rebeccatencza <tenczare@msu.edu> 1397508113 -0700	checkout: moving from gh-pages to master
+7393a113438553a915ae0852542e8bd32afa3b33 fea382eb5a9ae716d3e7de67bdaed0b39036e0c3 rebeccatencza <tenczare@msu.edu> 1397508138 -0700	checkout: moving from master to gh-pages
