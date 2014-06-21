@@ -1,0 +1,30 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="style.css" />
+  <title>Rebecca Tencza's Portfolio Website</title>
+
+</head>
+<body>
+<h1>
+<center> Rebecca Tencza's Online Portfolio </center>
+</h1>
+  <header>
+<p><center>
+<a href="HTML">Publications</a>
+<a href="about"> Graphic Design</a>
+<a href="about">Professional </a>
+<a href="https://www.msu.edu/~tenczare/resume%202014%20april.pdf">RESUME</a>
+<a href="writingsamples">Contact</a>
+
+</center>
+
+
+ Rebecca Tencza's Online Portfolio
+ </p> </center>
+
+
+</body>
+</html>
+  
+
